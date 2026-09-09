@@ -3,7 +3,7 @@
   "version": "6.58.0",
   "file": "MIA_Firmware.bin",
   "url": "https://raw.githubusercontent.com/Lumpter/MIA-Firmware-Releases/main/versions/6.58.0/MIA_Firmware.bin",
-  "size": 1619440,
-  "sha256": "841c2b990cdd767730a13568979cb82a81a82a193b0b5faedce4b536633e1fee",
+  "size": 1620128,
+  "sha256": "de9c0c9adda401d514437c4daa3caf7b54135b1d89f22b57518afdaa0039b83b",
   "channel": "stable"
 }
