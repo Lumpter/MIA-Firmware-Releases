@@ -1,9 +1,9 @@
 {
   "device": "MIA-ESP32",
-  "version": "6.60.0",
+  "version": "6.59.0",
   "file": "MIA_Firmware.bin",
-  "url": "https://raw.githubusercontent.com/Lumpter/MIA-Firmware-Releases/main/versions/6.60.0/MIA_Firmware.bin",
+  "url": "https://raw.githubusercontent.com/Lumpter/MIA-Firmware-Releases/main/versions/6.59.0/MIA_Firmware.bin",
   "size": 1623440,
-  "sha256": "1faadcd01f4661a90bafa91bdb0822643e79485922ab035c617bba184028c490",
+  "sha256": "32ffe8294c2ff532e30791b09113766c39e98a3d51fc0f365749167986406766",
   "channel": "stable"
 }
